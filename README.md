@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+ - I like to code.
+ - I'm studying in St Petersburg.
+ - I also like pizza.
+ - I'll write something serious here someday.
 <!--
 **Loronik/Loronik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
