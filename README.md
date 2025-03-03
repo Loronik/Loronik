@@ -1,6 +1,5 @@
 ## Hi there 👋
  - I like to code.
- - I'm studying in St Petersburg.
  - I also like pizza.
  - I'll write something serious here someday.
 <!--
